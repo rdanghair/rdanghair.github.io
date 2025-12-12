@@ -103,7 +103,7 @@
 </head>
 <body>
 
-<header>Book Your Cut ✂️</header>
+<header>Book Your Cut by ryan ✂️</header>
 
 <div class="container">
   <form id="bookingForm" action="https://script.google.com/macros/s/YOUR-SCRIPT-ID/exec" method="POST">
