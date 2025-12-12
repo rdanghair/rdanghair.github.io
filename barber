@@ -103,7 +103,7 @@
 </head>
 <body>
 
-<header>Book Your Cut ✂️</header>
+<header>Book An Appointment with Ryan ✂️</header>
 
 <div class="container">
   <form id="bookingForm" action="https://script.google.com/macros/s/YOUR-SCRIPT-ID/exec" method="POST">
@@ -136,9 +136,9 @@
   </form>
 
   <div class="social">
-    <p>Follow me on Instagram:</p>
+    <p>Contact Through Instagram:</p>
     <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-      <span>📸</span>@YOUR_INSTAGRAM
+      <span>📸</span>@ryanx.cuts
     </a>
   </div>
 
